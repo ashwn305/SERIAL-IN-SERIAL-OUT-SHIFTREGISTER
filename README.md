@@ -36,10 +36,10 @@ Developed by:ASHWIN H RegisterNumber:25005962
 */
 
 **RTL LOGIC FOR SISO Shift Register**
-<img width="1920" height="1020" alt="Screenshot 2025-10-07 182325" src="https://github.com/user-attachments/assets/eb06a19e-03da-4185-bd4b-6255f2006085" />
+<img width="1920" height="1020" alt="Screenshot 2025-10-07 183631" src="https://github.com/user-attachments/assets/e5a1a610-de73-40de-b802-f3f02e8eb5fe" />
 
 **TIMING DIGRAMS FOR SISO Shift Register**
-<img width="1920" height="1020" alt="Screenshot 2025-10-07 182459" src="https://github.com/user-attachments/assets/a648fe89-e55a-4de2-a132-3d409738d322" />
+<img width="1920" height="1020" alt="Screenshot 2025-10-07 183649" src="https://github.com/user-attachments/assets/540c53f4-f261-432d-a382-0d56f066a675" />
 
 **RESULTS**
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
